@@ -17,7 +17,7 @@ npm install
 3. Masuk terminal projoct bila menggunakan VScode tekan CTRL+J
 4. Run App
 ```
-node app.js
+node src/app.js
 ```
 
 ### Bila mengalami kendala hubungi saya [disini](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=redho.arn@gmail.com&tf=1)
