@@ -4,7 +4,7 @@
   [![Visits](https://komarev.com/ghpvc/?username=redhocode&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/redhocode)
 </div>
 
-## Balas dendam kepada penipu Undangan Palsu
+## Revenge penipu Undangan Palsu
 - Metode yang digunakan spam data ke API key BOT telegram penipu
 ### Usage
 ```
@@ -20,4 +20,4 @@ npm install
 node app.js
 ```
 
-### Bila mengalami kendala hubungi saya 
+### Bila mengalami kendala hubungi saya [disini](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=redho.arn@gmail.com&tf=1)
