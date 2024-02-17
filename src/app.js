@@ -1,9 +1,9 @@
 const {axios} = require('axios');
 const Message = 'Asu babi elu';
 const img = "https://www.klinikindonesia.com/image/t/tinja.jpg";
-const endpoint =
-  "https://api.telegram.org/bot6457148300:AAHd3_gH8SW4VH9kUt3aavIRFVFt8gMrjPs/sendMessage?parse_mode=markdown&chat_id=6618165018&text=" +
-  Message;
+// const endpoint =
+//   "https://api.telegram.org/bot6457148300:AAHd3_gH8SW4VH9kUt3aavIRFVFt8gMrjPs/sendMessage?parse_mode=markdown&chat_id=6618165018&text=" +
+//   Message;
 const endpoint2 = 
 "https://api.telegram.org/bot6457148300:AAHd3_gH8SW4VH9kUt3aavIRFVFt8gMrjPs/sendPhoto?chat_id=6618165018&photo="+img+"&caption="+Message;
 
@@ -23,7 +23,7 @@ async function sendMessage(){
             })
         }
     }catch (error) {
-        console.log("API down",error);
+        console.log("API-key Down");
     }
 }
 
