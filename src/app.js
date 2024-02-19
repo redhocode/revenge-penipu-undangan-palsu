@@ -17,12 +17,8 @@ async function sendMessage(){
         while (true) {
             await axios.get(endpoint2)
             .then((res) => {
-              
-                if (res.status===200) {
+                res.status===200 ;
                     console.log(res.data);
-                }  else {
-                    console.log("message failed!")
-                }
             })
         }
     }catch (error) {
