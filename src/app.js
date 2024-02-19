@@ -22,7 +22,7 @@ async function sendMessage(){
             })
         }
     }catch (error) {
-        console.log("API-key Down",error);
+        console.log("API-key Down");
     }
 }
 
